@@ -1,0 +1,27 @@
+species,common_name,family,study_location,apti_polluted_site,apti_control_site,reported_response,reference
+Azadirachta indica,Neem,Meliaceae,Prayagraj UP,17.71-32.49 (mean ~24.97),,Tolerant,Chandra et al. 2021 IJRAR 8(1)
+Azadirachta indica,Neem,Meliaceae,Udaipur Rajasthan,16.19,11.93,Intermediate-Tolerant,Rathore et al. 2018 IJAEB 11(1):33-38
+Azadirachta indica,Neem,Meliaceae,Lucknow UP,13.34,,Intermediate,Saxena et al. 2025 J Atmos Chem 82:2
+Azadirachta indica,Neem,Meliaceae,Noida UP,9.0,,Sensitive,Kumari & Deswal 2017 IJET 8(1)
+Ficus religiosa,Peepal,Moraceae,Lucknow UP,17.53,,Tolerant,Saxena et al. 2025 J Atmos Chem 82:2
+Ficus religiosa,Peepal,Moraceae,Udaipur Rajasthan,13.43,8.11,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Ficus religiosa,Peepal,Moraceae,Noida UP,10.0,,Sensitive,Kumari & Deswal 2017 IJET 8(1)
+Ficus benghalensis,Bargad,Moraceae,Prayagraj UP,12.54-17.06,,Intermediate,Chandra et al. 2021 IJRAR 8(1)
+Mangifera indica,Aam,Anacardiaceae,Prayagraj UP,9.25-15.47 (mean ~12.27),,Sensitive-Intermediate,Chandra et al. 2021 IJRAR 8(1)
+Mangifera indica,Aam,Anacardiaceae,Udaipur Rajasthan,16.61,10.62,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Phyllanthus emblica,Aonla,Phyllanthaceae,Dehradun Uttarakhand,12.80,,Intermediate,Lohe et al. 2015 GJESM 1(4):315-324
+Syzygium cumini,Jamun,Myrtaceae,Muzaffarpur Bihar,,,Tolerant group,Eram & Singh 2023 J Appl Biosci 49(1&2):27-38
+Psidium guajava,Amrood,Myrtaceae,Delhi roads,5.77-9.54,,Sensitive,Pandey et al. 2015 UFUG 14(3):866-871
+Psidium guajava,Amrood,Myrtaceae,Muzaffarpur Bihar,,,Tolerant group,Eram & Singh 2023 J Appl Biosci 49(1&2):27-38
+Terminalia arjuna,Arjun,Combretaceae,Muzaffarpur Bihar,,,Sensitive,Eram & Singh 2023 J Appl Biosci 49(1&2):27-38
+Dalbergia sissoo,Shisham,Fabaceae,Delhi (NMR),8.75,,Sensitive,Pandey et al. 2015 UFUG 14(3):866-871
+Dalbergia sissoo,Shisham,Fabaceae,Muzaffarpur Bihar,,,Sensitive,Eram & Singh 2023 J Appl Biosci 49(1&2):27-38
+Nerium oleander,Kaner,Apocynaceae,Udaipur Rajasthan,11.89,10.48,Sensitive-Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Nerium oleander,Kaner,Apocynaceae,Muzaffarpur Bihar,,,Sensitive,Eram & Singh 2023 J Appl Biosci 49(1&2):27-38
+Polyalthia longifolia,Ashok,Annonaceae,Noida UP,6.0,,Sensitive,Kumari & Deswal 2017 IJET 8(1)
+Polyalthia longifolia,Ashok,Annonaceae,Prayagraj UP,9.25,,Sensitive,Chandra et al. 2021 IJRAR 8(1)
+Delonix regia,Gulmohar,Fabaceae,Noida UP,11.0,,Sensitive,Kumari & Deswal 2017 IJET 8(1)
+Eucalyptus sp.,Nilgiri,Myrtaceae,Udaipur Rajasthan,16.85,10.80,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Calotropis procera,Aak,Apocynaceae,Udaipur Rajasthan,15.70,11.42,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Cassia fistula,Amaltas,Fabaceae,Udaipur Rajasthan,13.60,11.31,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
+Plumeria sp.,Champa,Apocynaceae,Udaipur Rajasthan,14.12,10.46,Intermediate,Rathore et al. 2018 IJAEB 11(1):33-38
